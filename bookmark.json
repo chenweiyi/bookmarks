@@ -1,0 +1,12 @@
+[
+  {
+    "title": "百度",
+    "url": "https://www.baidu.com",
+    "tags": ["一般", "常用工具"]
+  },
+  {
+    "title": "Github",
+    "url": "https://github.com",
+    "tags": ["办公", "收藏"]
+  }
+]
